@@ -1,5 +1,6 @@
 # CE7454-Project-AY19-20
 CE7454 Project AY19-20: Kuzushiji Detection with Natural Language Inference
+
 Group 23: Hualin Liu, Anran Hao and Wei Kwek Soh
 
 This repo stores the source code for NTU's CE7454 class project in AY19-20.
