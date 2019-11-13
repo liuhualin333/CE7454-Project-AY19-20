@@ -1,0 +1,5 @@
+classes=2
+train=./data/kuzushijiimg.txt
+valid=./data/kuzushijival.txt
+names=data/kuzushiji.names
+backup=backup/
